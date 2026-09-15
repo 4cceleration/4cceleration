@@ -16,15 +16,6 @@ operates faster, makes fewer mistakes and produces more with the same team.
   </picture>
 </p>
 
-### Where
-
-- **Founder of [One Hundred Company](https://www.onehundredcompany.com/)** —
-  AI from use case to production. No pilots stuck at the demo stage.
-- **Growth and technical staff at Stronglify** — organic growth and product.
-  You cannot grow what you do not understand.
-- **Research leadership support** at Fundación Universitaria Comfamiliar
-  Risaralda — written scope, decided architecture, deliverables with dates.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/cta-dark.svg">
