@@ -1,7 +1,9 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-dark.svg">
-  <img width="880" alt="Miguel Angel Diaz — Forward Deployed Engineer and artificial intelligence consultant. Colombia, working remotely." src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-light.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-dark.svg">
+    <img width="900" alt="Miguel Angel Diaz — Forward Deployed Engineer and AI consultant. Colombia, working remotely." src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-light.svg">
+  </picture>
+</p>
 
 Your team loses hours copying data, building reports and answering the same
 questions. I turn that manual work into software and AI agents so your company
