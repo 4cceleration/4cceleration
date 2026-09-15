@@ -34,7 +34,7 @@ operates faster, makes fewer mistakes and produces more with the same team.
 
 <p align="center">
   <a href="https://www.4cceleration.com">
-    <img width="340" alt="Message me on contact" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-contact.svg">
+    <img width="350" alt="Message me on contact" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-contact.svg">
   </a>
 </p>
 
