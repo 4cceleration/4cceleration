@@ -1,7 +1,7 @@
-# Miguel Angel Diaz
-
-**Forward Deployed Engineer and artificial intelligence consultant.**
-Colombia, working remotely.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img width="880" alt="Miguel Angel Diaz — Forward Deployed Engineer and artificial intelligence consultant. Colombia, working remotely." src="assets/header-light.svg">
+</picture>
 
 Your team loses hours copying data, building reports and answering the same
 questions. I turn that manual work into software and AI agents so your company
