@@ -34,7 +34,7 @@ operates faster, makes fewer mistakes and produces more with the same team.
 
 <p align="center">
   <a href="https://wa.me/573017412066?text=Hola%20Miguel%2C%20quiero%20acelerar%20un%20proceso%20de%20mi%20empresa">
-    <img width="340" alt="Message me on WhatsApp" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-whatsapp.svg">
+    <img width="350" alt="Message me on WhatsApp" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-whatsapp.svg">
   </a>
 </p>
 
