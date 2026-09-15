@@ -5,10 +5,6 @@
   </picture>
 </p>
 
-Your team loses hours copying data, building reports and answering the same
-questions. I turn that manual work into software and AI agents so your company
-operates faster, makes fewer mistakes and produces more with the same team.
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/build-dark.svg">
