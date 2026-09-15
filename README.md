@@ -20,8 +20,11 @@
 </p>
 
 <p align="center">
-  <a href="https://wa.me/573017412066?text=Hola%20Miguel%2C%20quiero%20acelerar%20un%20proceso%20de%20mi%20empresa">
-    <img width="350" alt="Message me on WhatsApp" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-whatsapp.svg">
+  <a href="https://wa.me/573017412066?text=Hi%20Miguel%2C%20I%27d%20like%20to%20speed%20up%20a%20process%20in%20my%20company">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-dark.svg">
+      <img width="350" alt="Message me on WhatsApp" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-light.svg">
+    </picture>
   </a>
 </p>
 
