@@ -20,8 +20,11 @@
 </p>
 
 <p align="center">
-  <a href="https://www.4cceleration.com">
-    <img width="350" alt="Message me on contact" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-contact.svg">
+  <a href="https://www.4cceleration.com/en">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-dark.svg">
+      <img width="350" alt="Message me on contact" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-light.svg">
+    </picture>
   </a>
 </p>
 
