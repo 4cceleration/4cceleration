@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img width="880" alt="Miguel Angel Diaz — Forward Deployed Engineer and artificial intelligence consultant. Colombia, working remotely." src="assets/header-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-dark.svg">
+  <img width="880" alt="Miguel Angel Diaz — Forward Deployed Engineer and artificial intelligence consultant. Colombia, working remotely." src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-light.svg">
 </picture>
 
 Your team loses hours copying data, building reports and answering the same
