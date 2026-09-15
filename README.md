@@ -9,16 +9,12 @@ Your team loses hours copying data, building reports and answering the same
 questions. I turn that manual work into software and AI agents so your company
 operates faster, makes fewer mistakes and produces more with the same team.
 
-### What I build
-
-- **AI automation** — documents read, data extracted, approvals moved, answers
-  drawn from your own knowledge.
-- **Custom internal software** — CRM, quoting, portals, inventory, purchasing,
-  finance. Built to how you already work.
-- **Integrations and data** — Excel, paper and chats into one place.
-  Dashboards that update themselves.
-- **AI agents** — processes run end to end across CRM, email and chat. Written
-  limits, every action logged.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/build-dark.svg">
+    <img width="900" alt="What I build: AI automation · Custom internal software · Integrations and data · AI agents" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/build-light.svg">
+  </picture>
+</p>
 
 ### Where
 
@@ -29,22 +25,17 @@ operates faster, makes fewer mistakes and produces more with the same team.
 - **Research leadership support** at Fundación Universitaria Comfamiliar
   Risaralda — written scope, decided architecture, deliverables with dates.
 
-Studying Financial Administration and Systems Administration.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/cta-dark.svg">
+    <img width="900" alt="Bring me the process that is slowing your team down. I will tell you whether it is worth automating, what it would take, and how we would know it worked." src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/cta-light.svg">
+  </picture>
+</p>
 
-### Stack
+<p align="center">
+  <a href="https://wa.me/573017412066?text=Hola%20Miguel%2C%20quiero%20acelerar%20un%20proceso%20de%20mi%20empresa">
+    <img width="340" alt="Message me on WhatsApp" src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/btn-whatsapp.svg">
+  </a>
+</p>
 
-TypeScript · Python · Next.js · Vercel · Supabase · PostgreSQL ·
-Google Cloud · n8n · AI SDK
-
----
-
-### Bring me the process that is slowing your team down
-
-I will tell you whether it is worth automating, what it would take, and how we
-would know it worked.
-
-[**4cceleration.com**](https://www.4cceleration.com/en) ·
-[WhatsApp](https://wa.me/573017412066) ·
-[team@onehundredcompany.com](mailto:team@onehundredcompany.com) ·
-[LinkedIn](https://www.linkedin.com/in/4cceleration/) ·
-[YouTube](https://www.youtube.com/@4ccelerationn)
+<p align="center"><a href="https://www.4cceleration.com/en">4cceleration.com</a></p>
