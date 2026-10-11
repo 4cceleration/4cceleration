@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-dark.svg">
-    <img width="900" alt="Miguel Angel Diaz — Forward Deployed Engineer and AI consultant. Colombia, working remotely." src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-light.svg">
+    <img width="900" alt="Miguel Angel — Forward Deployed Engineer and AI consultant. Colombia, working remotely." src="https://raw.githubusercontent.com/4cceleration/4cceleration/main/assets/header-light.svg">
   </picture>
 </p>
 
